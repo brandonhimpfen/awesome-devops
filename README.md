@@ -59,6 +59,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - [Kubernetes](https://kubernetes.io/) – Container orchestration platform.
 - [Nomad](https://www.nomadproject.io/) – Simple and flexible orchestrator for containers and non-containerized apps.
 - [OpenShift](https://www.openshift.com/) – Enterprise Kubernetes by Red Hat.
+- [KubeStellar Console](https://console.kubestellar.io) – Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project.
 - [Rancher](https://rancher.com/) – Kubernetes management platform.
 
 ## Monitoring & Logging
