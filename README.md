@@ -69,6 +69,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - [ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/what-is/elk-stack) – Scalable search and analytics engine.
 - [Datadog](https://www.datadoghq.com/) – Cloud-scale monitoring and security.
 - [New Relic](https://newrelic.com/) – Full-stack observability platform.
+- [Middleware](https://middleware.io/) – Full-stack observability platform with SRE agent.
 
 ## Security & DevSecOps
 
