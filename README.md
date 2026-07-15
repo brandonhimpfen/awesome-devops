@@ -96,6 +96,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - [The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/) – Novel about IT, DevOps, and helping your business win.
 - [The DevOps Toolkit YouTube](https://www.youtube.com/c/DevOpsToolkit) – Tutorials and best practices from Viktor Farcic.
 - [Katacoda: DevOps Scenarios](https://www.katacoda.com/courses/devops) – Interactive DevOps tutorials.
+- [TheCodeForge DevOps Tutorials](https://thecodeforge.io/devops/) – Free production-grade tutorials covering Docker, Kubernetes, CI/CD, Jenkins, Terraform, and Ansible.
 
 ## Related Awesome Lists
 
