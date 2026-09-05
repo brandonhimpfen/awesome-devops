@@ -1,4 +1,4 @@
-# Awesome DevOps [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome DevOps [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -99,10 +99,10 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 ## Related Awesome Lists
 
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Tools and resources for continuous integration.
-- **[Awesome GitHub Actions](https://github.com/awesomelistsio/awesome-github-actions)** – Curated GitHub Actions and workflows.
-- **[Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)** – Kubernetes ecosystem and tooling.
-- **[Awesome Infrastructure as Code](https://github.com/awesomelistsio/awesome-infrastructure-as-code)** – IaC tools and resources.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Tools and resources for continuous integration.
+- **[Awesome GitHub Actions](https://github.com/brandonhimpfen/awesome-github-actions)** – Curated GitHub Actions and workflows.
+- **[Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)** – Kubernetes ecosystem and tooling.
+- **[Awesome Infrastructure as Code](https://github.com/brandonhimpfen/awesome-infrastructure-as-code)** – IaC tools and resources.
 
 ## Contribute
 
